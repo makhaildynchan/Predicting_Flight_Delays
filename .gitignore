@@ -2,6 +2,7 @@
 ## This default template includes entries for R, Python and visual studio
 
 .DS_store
+config.py
 
 ##
 ## Add custom entries below here.
